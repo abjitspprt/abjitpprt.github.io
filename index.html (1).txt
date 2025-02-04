@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ABJ-IT SUPPORT - Free Hosting for Startups</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+color: #333;
+}
+header {
+background-color: #007BFF;
+color: white;
+padding: 20px;
+text-align: center;
+}
+section {
+padding: 20px;
+margin: 20px auto;
+max-width: 800px;
+background-color: white;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+color: #007BFF;
+}
+a {
+color: #007BFF;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+footer {
+text-align: center;
+padding: 10px;
+background-color: #007BFF;
+color: white;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>ABJ-IT SUPPORT</h1>
+<p>Free Hosting for Startups</p>
+</header>
+
+<section>
+<h2>About Us</h2>
+<p>Welcome to ABJ-IT SUPPORT! We provide free hosting services to help startups launch their online presence quickly and efficiently.</p>
+</section>
+
+<section>
+<h2>Our Services</h2>
+<ul>
+<li>Free Web Hosting</li>
+<li>Free Domain for 1 Year</li>
+<li>24/7 Technical Support</li>
+<li>Easy-to-Use Control Panel</li>
+</ul>
+</section>
+
+<section>
+<h2>Contact Us</h2>
+<p>Email us at: <a href="mailto:abjitspprt@gmail.com">abjitspprt@gmail.com</a></p>
+</section>
+
+<footer>
+<p>&copy; 2023 ABJ-IT SUPPORT. All rights reserved.</p>
+</footer>
+</body>
+</html>
